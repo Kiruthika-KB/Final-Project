@@ -1,2 +1,2 @@
-# Final-Project_1
+# Final-Project
 TWITTER SENTIMENT ANALYSIS
